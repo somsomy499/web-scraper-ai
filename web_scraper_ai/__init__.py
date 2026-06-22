@@ -1,0 +1,1 @@
+from .scraper import Scraper\n__version__ = "1.0.0"\n
